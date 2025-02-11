@@ -73,7 +73,7 @@
                         className: s().logo,
                         children: (0,
                         r.jsx)("img", {
-                            src: "images/Indian_Rupee_symbol.svg-rPKrErLvzd1VQ6UfUwvioAtZ0Ewi7t.png",
+                            src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Indian_Rupee_symbol.svg-rPKrErLvzd1VQ6UfUwvioAtZ0Ewi7t.png",
                             alt: "Indian Rupee Symbol",
                             className: s().rupeeSymbol
                         })
