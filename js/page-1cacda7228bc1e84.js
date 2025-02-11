@@ -73,14 +73,14 @@
                         className: s().logo,
                         children: (0,
                         r.jsx)("img", {
-                            src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Indian_Rupee_symbol.svg-rPKrErLvzd1VQ6UfUwvioAtZ0Ewi7t.png",
+                            src: "images/Indian_Rupee_symbol.svg-rPKrErLvzd1VQ6UfUwvioAtZ0Ewi7t.png",
                             alt: "Indian Rupee Symbol",
                             className: s().rupeeSymbol
                         })
                     }), (0,
                     r.jsx)("h1", {
                         className: s().title,
-                        children: "JEET TERMINAL"
+                        children: "HARRY BOLZ TERMINAL"
                     }), (0,
                     r.jsxs)("div", {
                         className: s().loadingBarContainer,
@@ -200,7 +200,7 @@
         function x() {
             return (0,
             r.jsxs)("a", {
-                href: "https://x.com/jeet_terminal",
+                href: "https://x.com/harry_bolz_",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: g().twitterButton,
@@ -469,7 +469,7 @@
                             className: s().logoContainer,
                             children: [(0,
                             r.jsx)("img", {
-                                src: "Elon.png",
+                                src: "/Elon.png",
                                 alt: "Jeet Terminal Logo",
                                 className: s().logo
                             }), (0,
